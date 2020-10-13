@@ -1,0 +1,15 @@
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\bin\Debug\CallNumbers.txt
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\bin\Debug\Prog7312_Task1.exe.config
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\bin\Debug\Prog7312_Task1.exe
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\bin\Debug\Prog7312_Task1.pdb
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\obj\Debug\Prog7312_Task1.csprojAssemblyReference.cache
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\obj\Debug\Prog7312_Task1.Form1.resources
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\obj\Debug\Prog7312_Task1.Form2.resources
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\obj\Debug\Prog7312_Task1.Form3.resources
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\obj\Debug\Prog7312_Task1.Identifying_areas.resources
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\obj\Debug\Prog7312_Task1.Identifying.resources
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\obj\Debug\Prog7312_Task1.Properties.Resources.resources
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\obj\Debug\Prog7312_Task1.csproj.GenerateResource.cache
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\obj\Debug\Prog7312_Task1.csproj.CoreCompileInputs.cache
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\obj\Debug\Prog7312_Task1.exe
+C:\Users\jnqoj\Desktop\17395801_Prog_7312_Task_1\ProgDemo\obj\Debug\Prog7312_Task1.pdb
